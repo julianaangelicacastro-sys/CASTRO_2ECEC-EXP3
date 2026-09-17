@@ -71,3 +71,8 @@ CODE:
 
 CODE:
 - selected_cars.shape
+
+## README File Version History
+09/18/2026
+
+**September 18, 2026** - Initial README output uploaded.
